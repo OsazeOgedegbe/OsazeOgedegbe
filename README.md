@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OsazeOgedegbe
+- 👋 Hi, I’m Osaze Ogedegbe
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning and Data Visualization
 - 📫 How to reach me: osazeogedegbe2@gmail.com
