@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Osaze Ogedegbe
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Machine Learning and Data Visualization
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning about Artificial Intelligence and Machine Learning
 - 📫 How to reach me: osazeogedegbe2@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/osaze-ogedegbe/
 
 <!---
 OsazeOgedegbe/OsazeOgedegbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
