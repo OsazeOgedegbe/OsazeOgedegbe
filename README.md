@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osaze Ogedegbe
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Full Stack Web Development
 - 🌱 I’m currently learning about Artificial Intelligence and Machine Learning
 - 📫 How to reach me: osazeogedegbe2@gmail.com
 
